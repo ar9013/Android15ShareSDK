@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DevInfor>
+
+	<ShareSDK
+		AppKey = "152a3a7b888a2"/> <!-- 修改成你在sharesdk后台注册的应用的appkey"-->
+
+	<Facebook
+		Id="8"
+		SortId="8"
+		ConsumerKey="1148528641877120"
+		ConsumerSecret="257ab636b4da8761fd3ed86e4a81d7d9"
+		RedirectUrl="http://mob.com"
+		Enable="true" />
+
+	<Twitter
+		Id="9"
+		SortId="9"
+		ConsumerKey="LRBM0H75rWrU9gNHvlEAA2aOy"
+		ConsumerSecret="gbeWsZvA9ELJSdoBzJ5oLKX0TU09UOwrzdGfo9Tg7DjyGuMe8G"
+		CallbackUrl="http://mob.com"
+		Enable="true" />
+
+
+
+	<Email
+		Id="12"
+		SortId="12"
+		Enable="true" />
+
+	<ShortMessage
+		Id="13"
+		SortId="13"
+		Enable="true" />
+
+
+
+
+	<GooglePlus
+		Id="21"
+		SortId="21"
+		ShareByAppClient = "false"
+		Enable="true" />
+
+
+
+	<FacebookMessenger
+		Id="39"
+		SortId="39"
+		AppId="107704292745179"
+		Enable="true" />
+
+
+
+</DevInfor>
